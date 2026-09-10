@@ -1,16 +1,36 @@
-## Hi there 👋
+¡Hola! Soy Juan Sebastián
 
-<!--
-**JuanSebR/JuanSebR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Estudiante de Ingeniería de Sistemas
+ En formación como Backend & Full Stack Developer
 
-Here are some ideas to get you started:
+Actualmente estoy construyendo proyectos para fortalecer mis habilidades en desarrollo de software, bases de datos, arquitectura y tecnologías web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Tecnologías
+Lenguajes
+Java
+Python
+JavaScript
+SQL
+Backend
+Spring Boot
+Bases de datos
+PostgreSQL
+
+Herramientas
+Git
+GitHub
+Docker
+ Proyectos
+
+ Actualmente construyendo proyectos personales y académicos enfocados en resolver problemas reales mediante software.
+
+ Actualmente aprendiendo
+Desarrollo de APIs REST
+Arquitectura de software
+Desarrollo Full Stack
+Testing
+Docker y despliegue de aplicaciones
+Buenas prácticas de desarrollo
+
+Objetivo
+Convertir los conocimientos adquiridos durante mi carrera en proyectos reales, seguir mejorando como desarrollador y construir soluciones que puedan llegar a convertirse en productos.
