@@ -1,7 +1,7 @@
 ¡Hola! Soy Juan Sebastián
 
  Estudiante de Ingeniería de Sistemas
- En formación como Backend & Full Stack Developer
+ En formación como Backend 
 
 Actualmente estoy construyendo proyectos para fortalecer mis habilidades en desarrollo de software, bases de datos, arquitectura y tecnologías web.
 
